@@ -2,13 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Bebas Neue', cursive;
-
 }
 
 body{
     /* background-color: #2B2473; */
     background-image: url('svg_background/background.svg');
+    font-family: 'Bebas Neue', cursive;
     height: 100%;
 }
 
